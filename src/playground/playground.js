@@ -9,6 +9,4 @@ function playground() {
   return factorial(5);
 }
 
-console.log('Javascript Algorithms Playground');
-
 export default playground;
